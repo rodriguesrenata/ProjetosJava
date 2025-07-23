@@ -36,7 +36,7 @@ Valor Inicial: R$ 1500.00
 Taxa de Juros Mensal: 0.8%
 Tempo: 24 meses
 Valor Final: R$ 1835.26
-
+``` 
 ## Colaboradores
 
 Este projeto foi desenvolvido por estudantes em formação na linguagem Java, como parte de um exercício prático de simulação de investimentos.
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido por estudantes em formação na linguagem Java, co
 - **Renata Rodrigues** – https://github.com/rodriguesrenata
 - **Matheus Nakahashi** – 
 - **Sergio Mila** – 
-- **Ricardo ** –
+- **Ricardo** –
 - **Jose** –
 
 Sinta-se à vontade para entrar em contato ou sugerir melhorias!

@@ -11,12 +11,9 @@ public class Investidor implements Investimento {
         this.tempo = tempo;
     }
 
+    @Override
     public double calcularValorFinal() {
         return valorInicial * Math.pow(1 + (taxa / 100), tempo);
-    }
-
-    public double calcularRetiradaMensal() {
-        return calcularValorFinal() / tempo;
     }
 
     public void imprimirResumo() {
@@ -25,7 +22,6 @@ public class Investidor implements Investimento {
         System.out.printf("Taxa de Juros: %.2f%% ao mês\n", taxa);
         System.out.println("Tempo: " + tempo + " meses");
         System.out.printf("Valor Futuro (VF): R$ %.2f\n", calcularValorFinal());
-        System.out.printf("Retirada Mensal: R$ %.2f\n", calcularRetiradaMensal());
         System.out.println("-------------------------------");
     }
 }

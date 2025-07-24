@@ -13,11 +13,19 @@ Este projeto foi desenvolvido como parte dos estudos da linguagem Java e simula 
 - Permite taxa de juros igual a zero (caso o investimento não tenha rendimento).
 - Relatório final com nome do investidor e resultado da simulação.
 
-## Tecnologias utilizadas
 
-- Java 17
-- IntelliJ IDEA (ou qualquer IDE compatível)
-- Execução via terminal ou IDE
+                                                                      
+## Conceitos de Java e POO utilizados
+
+- Classes e Objetos
+- Encapsulamento (atributos privados + métodos públicos)
+- Getters e Setters
+- Métodos com parâmetros e retorno
+- Interface e implementação (implements)
+- Polimorfismo (uso da interface)
+- Tratamento de exceções (try/catch)
+- Validações e estruturas de repetição (while, if)
+- Formatação de texto e entrada do usuário com Scanner
 
 ## Exemplo de uso
 
@@ -42,9 +50,9 @@ Valor Final: R$ 1835.26
 Este projeto foi desenvolvido por estudantes em formação na linguagem Java, como parte de um exercício prático de simulação de investimentos.
 
 - **Renata Rodrigues** – https://github.com/rodriguesrenata
-- **Matheus Nakahashi** – 
-- **Sergio Mila** – 
-- **Ricardo** –
-- **Jose** –
+- **Matheus Nakahashi** – https://github.com/Nakahashi2016
+- **Sergio Milametto** –  https://github.com/slmilametto
+- **Ricardo Turra** – https://github.com/RicoeTurra
+- **Jose Fernando** – https://github.com/joseccna
 
 Sinta-se à vontade para entrar em contato ou sugerir melhorias!
